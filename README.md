@@ -27,7 +27,7 @@ Install with CDN:
 ### Example
 
 ```html
-<textarea data-ls-text-resize>Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!</textarea>
+<textarea data-ls-text-resize>Hello World!</textarea>
 ```
 
 ## Contributing
