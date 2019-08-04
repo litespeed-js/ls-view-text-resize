@@ -26,14 +26,8 @@ Install with CDN:
 
 ### Example
 
-Setting with maxlength attribute:
 ```html
-<input type="text" value="Hello World!" maxlength="20" data-ls-text-count />
-```
-
-Result:
-```html
-<input type="text" value="Hello World!" maxlength="20"><span class="ls-view-text-count">8 / 20</span>
+<textarea data-ls-text-resize>Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!</textarea>
 ```
 
 ## Contributing
