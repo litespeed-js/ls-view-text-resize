@@ -1,0 +1,33 @@
+{
+    "name": "ls-view-text-resize",
+    "version": "v1.0.0",
+    "private": false,
+    "main": "src/resize.js",
+    "description": "Litespeed.js view component that resizes your textarea input element to fit to your content height.",
+    "homepage": "https://github.com/litespeed-js/ls-view-text-resize",
+    "bugs": "https://github.com/litespeed-js/ls-view-text-resize/issues",
+    "license": "MIT",
+    "jsdelivr": "src/resize.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/litespeed-js/ls-view-text-resize.git"
+    },
+    "keywords": [
+        "litespeed",
+        "framework",
+        "lite",
+        "speed",
+        "lightspeed",
+        "light",
+        "javascript"
+    ],
+    "dependencies": {
+        "litespeed.js": "^0.3.6"
+    },
+    "devDependencies": {
+        "jest": "^24.8.0"
+    },
+    "scripts": {
+        "test": "jest tests"
+    }
+}
